@@ -11,4 +11,5 @@
 
     printf("AREA OF RECTANGLE %d",m*n);
     return 0;
- }
+
+ } 
